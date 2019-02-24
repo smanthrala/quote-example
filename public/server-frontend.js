@@ -25,8 +25,8 @@ function see2gather(initData){
 
 function initsee2gather(initData) {
 
-    var wsprotolink = "wss://two-gather.herokuapp.com";
-    var httplink = "https://two-gather.herokuapp.com/";
+    var wsprotolink = "wss://see2gather.herokuapp.com";
+    var httplink = "https://see2gather.herokuapp.com/";
     //wsprotolink = "ws://two-gather.herokuapp.com";
     //httplink = "http://two-gather.herokuapp.com:1980/";
 
