@@ -1,3 +1,9 @@
+var wsprotolink = "wss://see2gather.herokuapp.com";
+var httplink = "https://see2gather.herokuapp.com/";
+//wsprotolink = "ws://two-gather.herokuapp.com";
+//httplink = "http://two-gather.herokuapp.com:1980/";
+
+
 var loadedFiles = {};
 
 function see2gather(initData){
@@ -25,10 +31,6 @@ function see2gather(initData){
 
 function initsee2gather(initData) {
 
-    var wsprotolink = "wss://see2gather.herokuapp.com";
-    var httplink = "https://see2gather.herokuapp.com/";
-    //wsprotolink = "ws://two-gather.herokuapp.com";
-    //httplink = "http://two-gather.herokuapp.com:1980/";
 
     var allControls = false, loadImages = false;
     if(initData){
