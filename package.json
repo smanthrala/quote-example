@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "engines": {
-    "node": "10.3.0"
+    "node": "10.15.2"
   },
   "scripts": {
     "start": "node app.js"
